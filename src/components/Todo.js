@@ -7,6 +7,7 @@ export const todoListItems = [
   { id: '4', todo: 'Deliver letter' },
   { id: '5', todo: 'Send email' },
   { id: '6', todo: 'Call Roger back' },
+  { id: '7', todo: 'Finish filling out forms' },
 ];
 
 export default function Todo() {
